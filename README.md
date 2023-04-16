@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**dev-nurai/dev-nurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nurai, a passionate self-taught full-stack developer with entry-level experience in building web applications and APIs. I am also a community believer, I have learnt from the community, and love to share my knowledge with others. When I'm not at the keyboard, I enjoy playing cricket, exploring new destinations, or catching up on my favorite movies.
 
-Here are some ideas to get you started:
+### My technical skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - C# / .NET Core
+ - Entity Framework Core
+ - SQL Server / T-SQL
+ - Angular / TypeScript / JavaScript
+ - HTML / CSS / Bootstrap
+ 
+ ### Connect with me:
+ ✉️ Email: hi@nurai.dev<br/>
+ 🧔🏻 Portfolio: https://www.nurai.dev/ <br/>
+ 💼 LinkedIn: https://www.linkedin.com/in/dev-nurai/<br/>
