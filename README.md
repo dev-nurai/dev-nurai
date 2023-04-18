@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hello! I'm Nurai 👋
 
-I'm a self-taught full-stack developer with entry-level experience in building web applications and APIs. I am also a community believer. When I'm not at the keyboard, I enjoy playing cricket, exploring new destinations, or catching up on my favorite movies.
+A self-taught full-stack developer with entry-level experience in building web applications and APIs. I am also a community believer. When I'm not at the keyboard, I enjoy playing cricket, exploring new destinations, or catching up on my favorite movies.
 
 ### My technical skills:
  - C# / .NET Core
