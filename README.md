@@ -6,7 +6,7 @@ A self-taught full-stack developer with entry-level experience in building web a
  - C# / .NET Core
  - Entity Framework Core
  - SQL Server / T-SQL
- - Angular / TypeScript / JavaScript
+ - React / TypeScript / JavaScript
  - HTML / CSS / Bootstrap
  
  ### Connect with me:
