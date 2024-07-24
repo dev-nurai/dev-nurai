@@ -13,5 +13,5 @@ When I'm not at the keyboard, I enjoy playing cricket, exploring new destination
  
  ### Connect with me:
  ✉️ Email: hi@nurai.dev<br/>
- 🧔🏻 Portfolio: https://www.nurai.dev/ <br/>
+ 🧔🏻 Website: https://www.nurai.dev/ <br/>
  💼 LinkedIn: https://www.linkedin.com/in/dev-nurai/<br/>
