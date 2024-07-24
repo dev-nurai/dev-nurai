@@ -1,8 +1,10 @@
 # Hello! I'm Nurai 👋
 
-A self-taught full-stack developer with entry-level experience in building web applications and APIs. When I'm not at the keyboard, I enjoy playing cricket, exploring new destinations, or catching up on my favorite movies.
+A Full Stack Developer based in Mumbai.
 
-### My technical skills:
+When I'm not at the keyboard, I enjoy playing cricket, exploring new destinations, or catching up on my favorite movies.
+
+### Teck Stack:
  - C# / .NET Core
  - Entity Framework Core
  - SQL Server / T-SQL
