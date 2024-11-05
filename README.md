@@ -6,7 +6,7 @@ When I'm not at the keyboard, I enjoy playing cricket, exploring new destination
 
 ### Teck Stack:
  - C# / .NET Core
- - Entity Framework Core
+ - Entity Framework Core / Dapper
  - SQL Server / T-SQL
  - React / TypeScript / JavaScript
  - HTML / CSS / Bootstrap
