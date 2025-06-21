@@ -8,7 +8,7 @@ When I'm not at the keyboard, I enjoy playing cricket, exploring new destination
  - C# / .NET Core
  - Entity Framework Core / Dapper
  - SQL Server / T-SQL
- - React / TypeScript / JavaScript
+ - Angular / React / TypeScript / JavaScript
  - HTML / CSS / Bootstrap
  
  ### Connect with me:
